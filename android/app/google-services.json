@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "523784049869",
+    "project_id": "bloc-firestre-todo",
+    "storage_bucket": "bloc-firestre-todo.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:523784049869:android:53970fe6d83697a61c0584",
+        "android_client_info": {
+          "package_name": "com.example.bloc_firestrore_todo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBGELvp7_6IQvUHbEWXNAq5wms4Koz3_I4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
